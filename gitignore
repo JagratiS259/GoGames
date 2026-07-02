@@ -1,0 +1,10 @@
+.streamlit/secrets.toml
+*.faiss
+*_meta.json
+companies.json
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store
